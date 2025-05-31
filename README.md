@@ -1,7 +1,7 @@
 **Foundations-of-CS**
 *Bite-size, community-driven lessons on core computer science concepts*
 
-[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](LICENSE) [![Good First Issues](https://img.shields.io/github/issues/your-org/foundations-of-cs/good%20first%20issue)](#good-first-issues) [![Contributors](https://img.shields.io/github/contributors/your-org/foundations-of-cs)](https://github.com/your-org/foundations-of-cs/graphs/contributors)
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](LICENSE) [![Good First Issues](https://img.shields.io/github/issues/PGrayCS/foundations-of-cs/good%20first%20issue)](#good-first-issues) [![Contributors](https://img.shields.io/github/contributors/PGrayCS/foundations-of-cs)](https://github.com/your-org/foundations-of-cs/graphs/contributors)
 
 ---
 
