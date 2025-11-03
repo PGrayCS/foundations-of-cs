@@ -1,7 +1,7 @@
 **Foundations-of-CS**
 *Bite-size, community-driven lessons on core computer science concepts*
 
-[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](LICENSE) [![Good First Issues](https://img.shields.io/github/issues/PGrayCS/foundations-of-cs/good%20first%20issue)](#good-first-issues) [![Contributors](https://img.shields.io/github/contributors/PGrayCS/foundations-of-cs)](https://github.com/your-org/foundations-of-cs/graphs/contributors)
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](LICENSE) [![Good First Issues](https://img.shields.io/github/issues/PGrayCS/foundations-of-cs/good%20first%20issue)](#good-first-issues) [![Contributors](https://img.shields.io/github/contributors/PGrayCS/foundations-of-cs)](https://github.com/PGrayCS/foundations-of-cs/graphs/contributors)
 
 ---
 
@@ -35,7 +35,7 @@ Ideal for newcomers, students prepping for interviews, and educators seeking rea
 ## ✨ Features
 
 * **Modular Chapters**: Pick and choose topics by folder.
-* **Starter Issues**: Labels (`good first issue`, `help wanted`) for easy on-boarding.
+* **Starter Issues**: Labels (`good first issue`, `help wanted`) for easy onboarding.
 * **CI-Driven Quality**: Markdown linting, spell-check, and test runners via GitHub Actions.
 * **Multi-language Support**: Localization-friendly structure for translations.
 
@@ -65,7 +65,7 @@ Contributors can add new folders (`03-pointers`, `04-stacks`, etc.) using this l
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-org/foundations-of-cs.git
+   git clone https://github.com/PGrayCS/foundations-of-cs.git
    cd foundations-of-cs
    ```
 2. **Browse locally** (if you have Python installed)
